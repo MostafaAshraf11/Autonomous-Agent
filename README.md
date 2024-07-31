@@ -1,0 +1,2 @@
+# Autonomous Agent
+ An autonomous agent system built in Java that simulates an agent capable of constructing buildings in a virtual environment. The agent performs actions such as requesting resources (food, materials, energy), waiting for resource arrival, and building structures. The project leverages search algorithms like Depth-First Search (DFS), Breadth-First Search (BFS), and Uniform Cost Search (UCS) to make decisions and plan actions
